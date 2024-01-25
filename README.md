@@ -3,8 +3,6 @@
 - 🌟 I love to learn new things
 - 🌟 Backend developer
 - 🌟 Send me an [e-mail](nahomiplata@outlook.com)!
-![Penguin coding](https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47mz8r1ixy5cbfllmj96hfhdupm05tx97luju8xiza&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nahomiplata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahomiplata" height="30" width="40" /></a>
@@ -16,3 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachomi24&show_icons=true&locale=en&layout=compact" alt="nachomi24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachomi24&show_icons=true&locale=en" alt="nachomi24" /></p>
+![Penguin coding](https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47mz8r1ixy5cbfllmj96hfhdupm05tx97luju8xiza&ep=v1_gifs_search&rid=giphy.gif&ct=g)
