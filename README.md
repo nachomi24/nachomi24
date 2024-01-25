@@ -2,7 +2,7 @@
 - 🌟 Computer science student
 - 🌟 I love to learn new things
 - 🌟 Backend developer
-- 🌟 Send me an [e-mail](nahomiplata@outlook.com)
+- 🌟 Send me an e-mail! (nahomiplata@outlook.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nahomiplata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahomiplata" height="30" width="40" /></a>
