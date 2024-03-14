@@ -1,7 +1,7 @@
 ### Hi there 💟
 - 🌟 Computer science student
 - 🌟 I love to learn new things
-- 🌟 Backend developer
+- 🌟 Full-stack developer
 - 🌟 Send me an e-mail! (nahomiplata@outlook.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
